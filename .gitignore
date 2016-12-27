@@ -1,0 +1,9 @@
+# Python
+*.pyc
+
+# Virtualenv
+venv
+
+# Output
+data/
+logs/
